@@ -22,3 +22,4 @@ const netSalaryCalculator = (grossSalary, benefits) => {
     const netSalary = grossSalary - totalDeductions - benefits;
     return netSalary;
 };
+

@@ -18,4 +18,4 @@ const speedDetector = (speed) => {
     }
     }
 
-console.log(speedDetector(80));
+console.log(speedDetector(50));
